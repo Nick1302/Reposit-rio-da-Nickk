@@ -1,16 +1,1 @@
-# Reposit-rio-da-Nickk
-<! DOCTYPE html> <html lang="en">
-<head>
-‹script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/p5.
-js">/script>
-‹script
-src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.8.0/add
-ons/p5.sound.min.js"></script>
-<link rel="stylesheet" type="text/css".
-href="style.css">
-<meta charset="utf-8" />
-</head>
-‹body>
-<main>
-</main>
-(scrint sre="cketch ica/scrinta
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://nick1302.github.io/Reposit-rio-da-Nickk/">Repositório da Nickk © 2024 by Nicole is licensed under Creative Commons Attribution 4.0 International. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://nick1302.github.io/Reposit-rio-da-Nickk/">Nicole </a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Creative Commons Attribution 4.0 International<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""></a></p>
